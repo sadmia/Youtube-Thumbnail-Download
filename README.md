@@ -1,2 +1,2 @@
 # Youtube-Thumbnail-Download
-YouTube Thumbnail Download Mini Project Using HTML CSS JavaScript And PHP
+<h1>YouTube Thumbnail Download Mini Project Using HTML CSS JavaScript And PHP<h1>
